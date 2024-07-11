@@ -1,6 +1,6 @@
 # Project Title: Uber Rides and Weather
 
-## Team members
+## Team members (Group 4)
 Zahra Razook,  Mary (Jiahui) Du, Isa Huseni, Greg Presneill
 
 ## Project Description
